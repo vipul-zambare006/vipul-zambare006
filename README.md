@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Custom Banner - Replace with your hosted image URL -->
-<img src="./assets/github-banner.png" alt="Vipul Zambare - Full Stack Developer" width="100%" height="1000"/>
+<img src="./assets/github-banner.jpeg" alt="Vipul Zambare - Full Stack Developer" width="100%"/>
 
 # Hi there, I'm Vipul 👋
 
