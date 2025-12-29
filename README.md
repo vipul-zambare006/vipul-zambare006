@@ -83,7 +83,7 @@ A results-driven **Mobile & Web Engineer** with **over a decade** of expertise i
 ## 🎯 Core Expertise & Contributions
 
 🚀 **High-Scale Mobile Engineering**  
-Built and optimized features for the **Crypto.com** main app, handling high-concurrency and ensuring seamless performance for **150M+ users**.
+Contribute to the **Crypto.com** main app, ensuring seamless performance for **150M+ users**.
 
 🎨 **Pixel-Perfect Design Systems (DLS)**  
 Lead contributor to **Design Language Systems**, building comprehensive, reusable component libraries with **React & React Native**. Focused on atomic design principles to ensure consistency and speed across multi-disciplinary teams.
