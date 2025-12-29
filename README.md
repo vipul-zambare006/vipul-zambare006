@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Custom Banner - Replace with your hosted image URL -->
-<img src="./assets/github-banner.jpeg" alt="Vipul Zambare - Full Stack Developer" width="100%"/>
+<img src="./assets/profile-banner-1.png" alt="Vipul Zambare - Full Stack Developer" width="100%"/>
 
 # Hi there, I'm Vipul 👋
 
@@ -34,7 +34,6 @@ A results-driven **Mobile & Web Engineer** with **over a decade** of expertise i
 ## 🛠️ Tech Stack
 
 ### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
