@@ -1,8 +1,5 @@
 <div align="center">
 
-<!-- Custom Banner - Replace with your hosted image URL -->
-<img src="./assets/profile-banner-1.png" alt="Vipul Zambare - Full Stack Developer" width="100%"/>
-
 # Hi there, I'm Vipul 👋
 
 ### Full Stack Developer | React & React Native Specialist | Design Systems Enthusiast
@@ -12,7 +9,6 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vipulzambare1993@gmail.com)
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=10%2B+Years+of+Development+Experience;Building+Pixel+Perfect+Interfaces;Design+Language+Systems+Expert;Full+Stack+%7C+MERN+%7C+React+Native" alt="Typing SVG" />
-
 </div>
 
 ---
