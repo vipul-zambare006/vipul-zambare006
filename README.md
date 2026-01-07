@@ -63,19 +63,6 @@ A results-driven **Mobile & Web Engineer** with **over a decade** of expertise i
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vipul-zambare006&show_icons=true&theme=dark&count_private=true" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vipul-zambare006&theme=dark" alt="GitHub Streak" height="170"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vipul-zambare006&layout=compact&theme=dark" alt="Top Languages" height="170"/>
-</div>
-
----
-
 ## 🎯 Core Expertise & Contributions
 
 🚀 **High-Scale Mobile Engineering**  
